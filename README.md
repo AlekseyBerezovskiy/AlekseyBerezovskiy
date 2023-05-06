@@ -32,6 +32,24 @@
 
 </td></tr></table>  
 
+<br/>
+
+### Работал с:
+
+
+![Oculus](https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Pico-green?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/ARFoundation-orange?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/BLE-black?style=for-the-badge&logo=bluetooth&logoColor==FFFFFF&label=)
+![DOTWEEN](https://img.shields.io/static/v1?style=for-the-badge&message=DotWeen&color=4f7942&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=Zenject&color=5e5e5e&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=LeoECS&color=000000&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=UniRx&color=f984e5&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/badge/UniTask-blue?style=for-the-badge&logo=Rider&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Stateless-red?style=for-the-badge&logo=Rider&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Web3-yellow?style=for-the-badge&logo=Rider&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor==FFFFFF&label=)
+
 <br/>  
 
 
