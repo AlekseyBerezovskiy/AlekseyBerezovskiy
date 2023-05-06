@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>
-
 ### <div align="center">Меня зовут Алексей, я Unity Developer 👨‍💻. Работаю в этой сфере с 2020 года 🚀</div>
 
 <img align="right" alt="GIF" src="https://github.com/AlekseyBerezovskiy/AlekseyBerezovskiy/blob/main/Dog.gif?raw=true" width="250" height="160" />
@@ -33,14 +29,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
