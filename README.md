@@ -6,7 +6,7 @@
 - 🔭 Сейчас работаю над [MedivalBuilder](https://github.com/AlekseyBerezovskiy/MedivalBuilder)
 
 
-- 🌱 Изучаю TDD, RX и ECS(LeoEcs)
+- 🌱 Изучаю RX и ECS(LeoEcs)
 
 
 - ❓ Люблю делиться знаниями касательно Unity и C#
