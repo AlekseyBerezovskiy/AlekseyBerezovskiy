@@ -49,6 +49,10 @@
 ![Rider](https://img.shields.io/badge/Stateless-red?style=for-the-badge&logo=Rider&logoColor==FFFFFF&label=)
 ![Rider](https://img.shields.io/badge/Web3-yellow?style=for-the-badge&logo=Rider&logoColor==FFFFFF&label=)
 ![Rider](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/ProBuilder-grey?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Cinemachine-red?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Odin-pink?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
+![Rider](https://img.shields.io/badge/Splines-blue?style=for-the-badge&logo=Unity&logoColor==FFFFFF&label=)
 
 <br/>  
 
