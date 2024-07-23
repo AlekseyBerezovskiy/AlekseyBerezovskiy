@@ -1,4 +1,4 @@
-### <div align="center">Меня зовут Алексей, я Unity Developer 👨‍💻. Работаю в этой сфере с 2020 года 🚀</div>
+### <div align="center">Меня зовут Алексей, я Unity Developer 👨‍💻</div>
 
 <img align="right" alt="GIF" src="https://github.com/AlekseyBerezovskiy/AlekseyBerezovskiy/blob/main/Dog.gif?raw=true" width="250" height="160" />
 
