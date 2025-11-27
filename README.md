@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/AlekseyBerezovskiy/AlekseyBerezovskiy/blob/main/Dog.gif?raw=true" width="250" height="160" />
 
 
-- 🔭 Сейчас работаю в компании [Antinoon](https://antinoon.com/)
+- 🔭 Сейчас работаю в компании [GoraGames](https://goragaming.com/)
 
 
 - 🌱 Занимаюсь разработкой мобильных игр
